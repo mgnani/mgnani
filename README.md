@@ -26,7 +26,7 @@
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord – [MGnani](https://discordapp.com/users/415163378064162829) my username!
 <!--Intro end-->
-
+<br/><br/>
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -49,7 +49,7 @@
 
 
 
-
+<br/><br/>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 ## Contact me:
