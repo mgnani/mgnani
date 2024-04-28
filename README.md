@@ -1,1 +1,2 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/93810026?v=4)](https://github.com/mgnani)
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
